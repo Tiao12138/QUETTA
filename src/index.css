@@ -1,0 +1,178 @@
+body {
+  font-family: 'Courier New';
+}
+h1,
+h2,
+h3 {
+  margin: 0.5rem 0;
+  text-align: center;
+  color: #E9E8E6;
+}
+h1 {
+  font-size: 1.5rem;
+}
+h2 {
+  font-size: 1.2rem;
+}
+h3 {
+  font-size: 1rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.introduction{
+  text-align: center;
+  color:#E9E8E6;
+}
+
+
+a {
+  text-decoration: none;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  color: #E9E8E6;
+}
+.row.center {
+  align-items: center;
+}
+.col-1 {
+  flex: 1;
+}
+.col-2 {
+  flex: 2;
+}
+
+.buttoncontainer{
+  align-items: center;
+  float: right;
+  display: flex;
+  width: 10rem;
+  justify-content: space-between;
+  margin: 0.1rem;
+}
+
+.container{
+  align-items: center;
+  text-align: center;
+  width:6.8rem;
+  font-size: 0.8rem;
+}
+
+.pagetwocontainer{
+  align-items: center;
+  text-align: center;
+  width:100%;
+}
+
+
+.block {
+  background-color: #202020;
+  padding: 1rem;
+  margin: 0.5rem;
+  border-bottom: #E9E8E6 solid 0.1rem;
+}
+
+.headerblock {
+  z-index: 999;
+  width: 92%;
+  background-color: #202020;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-top: 0;
+  position:fixed;
+  border-bottom: #E9E8E6 solid 0.1rem;
+}
+
+.text-right {
+  text-align: right;
+}
+
+img.small {
+  height: 4.8rem;
+  width: 4.8rem;
+  margin: 1rem;
+}
+
+
+img.large {
+  height: 8rem;
+  width: 8rem;
+  margin: 1rem;
+}
+
+button {
+  font-size: 0.8rem;
+  font-family: 'Courier New semibold';
+  color: #E9E8E6;
+  padding: 0.2rem;
+  margin: 0.1rem;
+  border-radius: 0.2rem;
+  border: 0;
+  background-color: #F0713A;
+  width: 6rem;
+}
+
+button:active{
+  background-color: #d66e41;
+}
+
+.checkout {
+  font-size: 0.8rem;
+  font-family: 'Courier New semibold';
+  color: #E9E8E6;
+  padding: 0.2rem;
+  margin: 0.1rem;
+  border-radius: 0.2rem;
+  border: 0;
+  background-color: #F0713A;
+  width: 100%;
+}
+
+button.checkout:active{
+  background-color: #d66e41;
+}
+
+button.add {
+  background-color: #649263;
+  width: 1.6rem;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+button.remove {
+  background-color: #649263;
+  width: 1.6rem;
+  font-size: 0.8rem;
+}
+
+button.badge {
+  background-color: #F0713A;
+  border: none;
+  color: #ffffff;
+  width: 1.5rem;
+ }
+
+#basket{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+#background {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  background:#202020;
+  width: 100%;
+}
+
+a{
+  color: #E9E8E6;
+}
+
+a:active{
+  color:#edcd9a;
+}
+
