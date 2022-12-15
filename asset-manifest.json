@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/QUETTA/static/css/main.0aa0bff7.css",
-    "main.js": "/QUETTA/static/js/main.b6add3c1.js",
+    "main.js": "/QUETTA/static/js/main.994cf2b6.js",
     "static/js/787.a5432ddb.chunk.js": "/QUETTA/static/js/787.a5432ddb.chunk.js",
     "static/media/Teams.svg": "/QUETTA/static/media/Teams.1514b210c52f7bc53b1009fde39d4d84.svg",
     "static/media/shopping.svg": "/QUETTA/static/media/shopping.1768026607c7575e3f515af67ffc0f1d.svg",
@@ -23,11 +23,11 @@
     "static/media/TikTok.svg": "/QUETTA/static/media/TikTok.728de73372b327b1e52b97087503198a.svg",
     "static/media/Email.svg": "/QUETTA/static/media/Email.998da7f22aa367e25c958722b46809e0.svg",
     "main.0aa0bff7.css.map": "/QUETTA/static/css/main.0aa0bff7.css.map",
-    "main.b6add3c1.js.map": "/QUETTA/static/js/main.b6add3c1.js.map",
+    "main.994cf2b6.js.map": "/QUETTA/static/js/main.994cf2b6.js.map",
     "787.a5432ddb.chunk.js.map": "/QUETTA/static/js/787.a5432ddb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0aa0bff7.css",
-    "static/js/main.b6add3c1.js"
+    "static/js/main.994cf2b6.js"
   ]
 }
